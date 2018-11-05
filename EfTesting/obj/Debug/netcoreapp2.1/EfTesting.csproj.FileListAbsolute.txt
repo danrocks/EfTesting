@@ -1,0 +1,11 @@
+C:\Users\DanielAdmin\Source\Repos\EfTesting\EfTesting\bin\Debug\netcoreapp2.1\EfTesting.deps.json
+C:\Users\DanielAdmin\Source\Repos\EfTesting\EfTesting\bin\Debug\netcoreapp2.1\EfTesting.runtimeconfig.json
+C:\Users\DanielAdmin\Source\Repos\EfTesting\EfTesting\bin\Debug\netcoreapp2.1\EfTesting.runtimeconfig.dev.json
+C:\Users\DanielAdmin\Source\Repos\EfTesting\EfTesting\bin\Debug\netcoreapp2.1\EfTesting.dll
+C:\Users\DanielAdmin\Source\Repos\EfTesting\EfTesting\obj\Debug\netcoreapp2.1\EfTesting.csprojResolveAssemblyReference.cache
+C:\Users\DanielAdmin\Source\Repos\EfTesting\EfTesting\obj\Debug\netcoreapp2.1\EfTesting.csproj.CoreCompileInputs.cache
+C:\Users\DanielAdmin\Source\Repos\EfTesting\EfTesting\obj\Debug\netcoreapp2.1\EfTesting.AssemblyInfoInputs.cache
+C:\Users\DanielAdmin\Source\Repos\EfTesting\EfTesting\obj\Debug\netcoreapp2.1\EfTesting.AssemblyInfo.cs
+C:\Users\DanielAdmin\Source\Repos\EfTesting\EfTesting\bin\Debug\netcoreapp2.1\EfTesting.pdb
+C:\Users\DanielAdmin\Source\Repos\EfTesting\EfTesting\obj\Debug\netcoreapp2.1\EfTesting.dll
+C:\Users\DanielAdmin\Source\Repos\EfTesting\EfTesting\obj\Debug\netcoreapp2.1\EfTesting.pdb
